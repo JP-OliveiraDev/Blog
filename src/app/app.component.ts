@@ -6,6 +6,7 @@ import { MenuTitleComponent } from "./components/menu-title/menu-title.component
 import { HomeComponent } from "./pages/home/home.component";
 import { MenuBarComponent } from "./components/menu-bar/menu-bar.component";
 
+
 @Component({
   selector: 'app-root',
   imports: [RouterOutlet, SmallCardComponent, BigCardComponent, MenuTitleComponent, HomeComponent, MenuBarComponent],
