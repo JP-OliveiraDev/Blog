@@ -1,6 +1,6 @@
-# 📖 **TechBlog**
+# 📖 **DevSphere**
 
-Bem-vindo ao **TechBlog**! 🚀  
+Bem-vindo ao **DevSphere**! 🚀  
 
 Este projeto foi desenvolvido como parte do bootcamp **Decola Tech 2025**, com o objetivo de criar um blog interativo e estilizado utilizando **Angular**.  
 
@@ -55,7 +55,11 @@ ng serve
 5️⃣ **Acesse no navegador**
 ```
 🔗 http://localhost:4200
-
-
-
 ```
+
+### 🤝 Contribuição
+Contribuições são sempre bem-vindas! Se você tiver alguma sugestão, correção de bugs ou melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+---
+
+**Nota: Este projeto foi desenvolvido como parte do bootcamp Decola Tech 2025. Para mais informações sobre o bootcamp, visite Decola Tech 2025.**
